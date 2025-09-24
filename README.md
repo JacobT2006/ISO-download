@@ -21,8 +21,12 @@ For this project I rewrote the operating system on a HP pavillion dv5000 laptop 
 1. Download and install the .ISO file off the web.
 2. Write to usb drive in the FAT format.
 3. Install using installer after booting computer to the drive.
-4. Finally enter login info for the new operating system.
-5. You have completed the download.
+   - [Rufus](https://rufus.ie/en/) for windows.
+   - [BalenaEtcher](https://etcher.balena.io/) any OS.
+4. Using the usb write the OS to the computer.
+5. Once done reboot and unplug usb.
+6. Finally enter login info for the new operating system.
+7. You have completed the download.
 
 ## (Optional) Create ventoy
 
