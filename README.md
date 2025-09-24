@@ -1,7 +1,6 @@
 # ISO-download
 
-For this project I rewrote the operating system on a HP pavillion dv5000 laptop using another computer and a usb drive.
- -> Recently done on personal desktop as well.
+For this project I rewrote the operating system on a HP pavillion dv5000 laptop using another computer and a usb drive.I have also recently done on personal desktop as well.
 
 ## Features
 
