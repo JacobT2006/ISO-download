@@ -5,6 +5,7 @@ For this project I rewrote the operating system on a HP pavillion dv5000 laptop 
 ## Features
 
 - Runs faster than original operating system insalled (Windows XP). <- HP Only
+- Can run alongside windows[^1].
 - Allows for better access to kernel level stuff.
 - Has Steam, Discord, and Blender.
 
@@ -36,4 +37,4 @@ For this project I rewrote the operating system on a HP pavillion dv5000 laptop 
 5. You have completed the ventoy
 
 
-[Link to reinstall windows](https://www.microsoft.com/en-gb/software-download/windows11).[^1]
+[^1]: [Link to reinstall windows](https://www.microsoft.com/en-gb/software-download/windows11).
