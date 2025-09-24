@@ -1,22 +1,34 @@
 # ISO-download
 
-For this project I rewrote the operating system on a hp pavillion laptop using another computer and a usb drive.
+For this project I rewrote the operating system on a HP pavillion dv5000 laptop using another computer and a usb drive.
+ -> Recently done on personal desktop as well.
 
 ## Features
 
-- Runs faster than original operating system insalled (Windows XP).
+- Runs faster than original operating system insalled (Windows XP). <- HP Only
+- Allows for better access to kernel level stuff.
+- Has Steam, Discord, and Blender.
 
 ## Requirements
 
-- Access to a usb drive over 6 gb
+- Access to a usb drive over 6 gb.
+     - If using ventoy the larger the better.
 - Older computer to newer computer.
-- Access to computer with internet.
+- Access to another computer with internet.
 
 ## Overall Installation
 
-1. Download and install the ISO file off the web.
+1. Download and install the .ISO file off the web.
 2. Write to usb drive in the FAT format.
 3. Install using installer after booting computer to the drive.
 4. Finally enter login info for the new operating system.
 5. You have completed the download.
+
+## (Optional) Create ventoy
+
+1. Create a ventoy using their software.
+2. Download your desired linux distro off the web.
+3. Drag the .ISO file to the ventoy.
+4. Plug in and choose which .ISO to use.
+5. You have completed the ventoy
    
