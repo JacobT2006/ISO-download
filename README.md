@@ -34,4 +34,6 @@ For this project I rewrote the operating system on a HP pavillion dv5000 laptop 
 3. Drag the .ISO file to the ventoy.
 4. Plug in and choose which .ISO to use.
 5. You have completed the ventoy
-   
+
+
+[Link to reinstall windows](https://www.microsoft.com/en-gb/software-download/windows11).
