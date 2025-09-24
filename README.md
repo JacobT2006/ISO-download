@@ -24,9 +24,9 @@ For this project I rewrote the operating system on a HP pavillion dv5000 laptop 
 4. Finally enter login info for the new operating system.
 5. You have completed the download.
 
-## (Optional) Create ventoy
+## <ins>(Optional)<ins> Create ventoy
 
-1. Create a ventoy using their software.
+1. Create a ventoy using their software [linked here](https://www.ventoy.net/en/index.html).
 2. Download your desired linux distro off the web.
 3. Drag the .ISO file to the ventoy.
 4. Plug in and choose which .ISO to use.
