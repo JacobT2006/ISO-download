@@ -1,3 +1,9 @@
+---
+title: Distros Page
+layout: template
+filename: LinuxDistros.md
+--- 
+
 # Linux Distros
 - [Link to Ubuntu](https://ubuntu.com/download/desktop).
 - [Link to Linux Mint](https://linuxmint.com/download.php).
