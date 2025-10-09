@@ -18,7 +18,7 @@ For this project I rewrote the operating system on a HP pavillion dv5000 laptop 
 
 ## Overall Installation
 
-1. Download and install the .ISO file from [links above](#linux-distros).
+1. Download and install the .ISO file from [links above](LinuxDistros.md).
 2. Write to usb drive in the FAT format.
 3. Install using installer after booting computer to the drive.
    - [Rufus](https://rufus.ie/en/) for windows.
